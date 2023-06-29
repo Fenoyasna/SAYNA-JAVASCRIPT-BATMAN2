@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-image: url(Illustrations/Batgame_1.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.incone {
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+
+}
+
+main,
+footer {
+    text-align: center;
+}
